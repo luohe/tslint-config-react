@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "@gago/tslint-config-react@1.2.3",
+      "/Users/admin/git/sunongyun-screen-web"
+    ]
+  ],
+  "_development": true,
+  "_from": "@gago/tslint-config-react@1.2.3",
+  "_id": "@gago/tslint-config-react@1.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-VwmDpAaB70lsiIm1J9L7ZjC9AIBBAWtizbTvwDNvGFC46QURwfBmbEpX/H1eS8nwGDmi0wEcpncgWXuoWKGt8w==",
+  "_location": "/@gago/tslint-config-react",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@gago/tslint-config-react@1.2.3",
+    "name": "@gago/tslint-config-react",
+    "escapedName": "@gago%2ftslint-config-react",
+    "scope": "@gago",
+    "rawSpec": "1.2.3",
+    "saveSpec": null,
+    "fetchSpec": "1.2.3"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "http://npmjs.gagogroup.cn/@gago%2ftslint-config-react/-/tslint-config-react-1.2.3.tgz",
+  "_spec": "1.2.3",
+  "_where": "/Users/admin/git/sunongyun-screen-web",
+  "author": {
+    "name": "wanghaodong"
+  },
+  "dependencies": {
+    "tslint-consistent-codestyle": "^1.13.3",
+    "tslint-eslint-rules": "^5.3.1",
+    "tslint-react": "^3.6.0",
+    "vrsource-tslint-rules": "^5.8.2"
+  },
+  "description": "gago tslint",
+  "devDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": ">=2.7.0"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "license": "MIT",
+  "main": "tslint.json",
+  "name": "@gago/tslint-config-react",
+  "peerDependencies": {
+    "tslint": "^5.11.0",
+    "typescript": ">=2.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.3"
+}
